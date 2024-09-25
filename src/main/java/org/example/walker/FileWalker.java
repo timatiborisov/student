@@ -16,6 +16,7 @@ public class FileWalker {
             }else if (Files.isDirectory(path)){
                 System.out.println("Evil: "+path);
             }
+            System.out.println();
         }
     }
 }
