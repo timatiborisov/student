@@ -1,0 +1,8 @@
+Vazifa:
+1. Student(ism, familiya, birthdate, hobbies) classini yarating va gitga commit qiling.
+2. StudentService classini yarating. Ushbu service studentlarni global listga qo’shadi, o’zgartiradi, o’chiradi. Va buni ham kommit qiling.
+3. StudentServicega studentlarni ismi, familiyasi, hobbiylari bo’yicha qidirish methodini qo’shing. O’zgarishlarni commit qiling.
+4. StudentServiceni qidiruv funksiyasini qo’shishdan oldingi versiyaga qaytaring.
+5. githubda ushbu dasturingiz uchun repository oching va o’zgarishlarni githubga yuklang.
+6. Dasturingizni o’chirib yuboring va githubdan yuklab oling.
+7. Githubda turgan holda dasturni birorta classini o’zgartiring va ushbu o’zgarishlarni kompyuteringizdagi dasturdan turib tortib oling.
